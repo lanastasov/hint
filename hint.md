@@ -11,4 +11,6 @@
 - Never mispend your time. Always ask yourself if what you are doing right now is actually worthwhile investment.
 
 - Don't sweat the stuff you don't understand immediately. Keep moving!
+
+- "It is not enough to do your best; you must know what to do, and then do your best" - W. Edwards Deming
    
