@@ -7,3 +7,6 @@
 - if you could only pick up one new skill this summer (2015), redux should be on top of your list
 
 - Never spend so much time on your studies that you neglect your social skills.
+ 
+- Never mispend your time. Always ask yourself if what you are doing right now is actually worthwhile investment.
+   
