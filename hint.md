@@ -9,4 +9,6 @@
 - Never spend so much time on your studies that you neglect your social skills.
  
 - Never mispend your time. Always ask yourself if what you are doing right now is actually worthwhile investment.
+
+- Don't sweat the stuff you don't understand immediately. Keep moving!
    
