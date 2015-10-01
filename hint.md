@@ -14,3 +14,4 @@
 
 - "It is not enough to do your best; you must know what to do, and then do your best" - W. Edwards Deming
    
+- "The market place is not the arena for scared money", agreed another.
