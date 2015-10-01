@@ -19,3 +19,5 @@
 - "None of my ancestors had any experience with computers for thousands of years. (2015)"
 
 - "You don't have to do exceptional things at all. Just do ordinary things exceptionally well. That's The Art of Exceptional Living." - Jim Rohn, 
+
+- If you don't understand something don't despair, just pretend that you understand. There are two possible consequences. Either you are going to get it at some point and everything will be all right or you will die without knowing it and it will be all right anyway.
