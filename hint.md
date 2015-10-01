@@ -17,3 +17,5 @@
 - "The market place is not the arena for scared money", agreed another.
 
 - "None of my ancestors had any experience with computers for thousands of years. (2015)"
+
+- "You don't have to do exceptional things at all. Just do ordinary things exceptionally well. That's The Art of Exceptional Living." - Jim Rohn, 
