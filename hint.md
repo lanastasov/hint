@@ -21,3 +21,5 @@
 - "You don't have to do exceptional things at all. Just do ordinary things exceptionally well. That's The Art of Exceptional Living." - Jim Rohn, 
 
 - If you don't understand something don't despair, just pretend that you understand. There are two possible consequences. Either you are going to get it at some point and everything will be all right or you will die without knowing it and it will be all right anyway.
+
+- " The biggest mistake that you can make is to believe that you are working for somebody else. Job security is gone. The driving force of a career must come from the individual. Remember: Jobs are owned by the company, you own your career! " -    Earl Nightingale 
