@@ -32,3 +32,14 @@
 
 - " Every year several million people are migrating from poverty to mid-class income " (2012) Stefan Ranstrand
   - http://tedxtalks.ted.com/embed/player/container/1274/732/?content=4D81DV2KFT850FKF&amp=&content_type=content_item&layout=&playlist_cid=&media_type=video&widget_type_cid=svp&read_more=1&referrer=http%3A%2F%2Ft.co%2F4YPvRuXvvq 
+
+- karoshi (japanese) - "death from overwork"
+  - Most commonly from heart attack and stroke.
+  - The first case of karoshi was reported in 1969.
+  - The long duration of energy expenditure without recovery followed by masturbation 
+    - Extremely long hours that interfere with normal recovery and rest patterns
+    - Night work that interferes with normal recovery and rest patterns 
+    - Working without holidays or breaks
+    - High-pressure work without breaks
+    - Extremely demanding physical labor and continuously stressful work
+    - All of those are commonplace as of today (2015)
