@@ -43,3 +43,10 @@
     - High-pressure work without breaks
     - Extremely demanding physical labor and continuously stressful work
     - All of those are commonplace as of today (2015)
+  - __One case study described a worker who died suddenly at the age
+of (45)forty-five. It turned out that he had worked thirteen consecutive
+days, including six successive night shifts. His job was assembling engine
+parts for Mazda Motor Company, and he worked on a line where
+the speed was two minutes per car. The methods devised to assure maximum
+efficiency were so unforgiving that workers had almost no time
+at all to recover.__
